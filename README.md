@@ -11,3 +11,7 @@ some other countries.
 A small dataset can be downloded from this Google Drive [link](https://drive.google.com/open?id=13bgmJ9p9Dtuf31n_B9U7Jv4xK9MwHV8A).
 
 A trained model with is weights can be downloded from this Google Drive [link](https://drive.google.com/open?id=1ffgaHC7gfyzcoDCdS8tHQbCiA_LUmvje).
+
+A Sample result image is shown below
+
+![Result](Result.jpg)
