@@ -15,3 +15,7 @@ A trained model with is weights can be downloded from this Google Drive [link](h
 A Sample result image is shown below
 
 ![Result](Result.jpg)
+
+An enlarged view of cropped number plate.
+
+![Enlarge](Enlarged.jpg)
