@@ -7,3 +7,5 @@ bounding box around number plate with confidence score.
 some other countries.
 
 3. The success rate of number plate detection is more than 95% .
+
+A small dataset can be downloded from my Google Drive [link](https://drive.google.com/open?id=13bgmJ9p9Dtuf31n_B9U7Jv4xK9MwHV8A)
